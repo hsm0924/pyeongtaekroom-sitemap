@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seo.pyeongtaekroom.kr/sitemap.xml
